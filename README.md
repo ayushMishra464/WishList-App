@@ -17,7 +17,7 @@ Below are some screenshots of the app to showcase the UI and functionality:
 
 ![WhatsApp Image 2024-09-22 at 12 11 50 AM](https://github.com/user-attachments/assets/8fe27a7c-b732-49de-9f73-2d5158fafe1a)
 
-Make sure to place the screenshots in a `screenshots` folder in your repository, and adjust the image file paths as necessary.
+
 
 ## Tech Stack
 - **Kotlin**: Programming language used for Android development.
